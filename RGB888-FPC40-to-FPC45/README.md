@@ -1,0 +1,3 @@
+# RGB888 FPC40 to FPC45
+
+ART-Pi RGB888 to FriendlyARM LCD-S700 port 
