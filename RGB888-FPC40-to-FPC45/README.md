@@ -1,3 +1,13 @@
 # RGB888 FPC40 to FPC45
 
-ART-Pi RGB888 to FriendlyARM LCD-S700 port 
+Convert ART-PI RGB888 FPC40 to FriendlyARM LCD-S700 FPC45
+
+## 3D Preview
+
+### Frontend
+
+![Frontend](./docs/img/frontend-preview.png)
+
+### Backend
+
+![Backend](./docs/img/backend-preview.png)
